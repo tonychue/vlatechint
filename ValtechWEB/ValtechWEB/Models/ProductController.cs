@@ -13,5 +13,9 @@ namespace ValtechWEB.Models
         {
             return View();
         }
+        public ActionResult product()
+        {
+            return View();
+        }
     }
 }
